@@ -1,0 +1,12 @@
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\nicon\Desktop\LAB-PROG 2\Caretti.Nicolas.2A.TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
