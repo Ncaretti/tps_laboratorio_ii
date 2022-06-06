@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FormClientes\FormClientes.csproj" />
+    <ProjectReference Include="..\FormSkins\FormSkins.csproj" />
+    <ProjectReference Include="..\FormVentas\FormVentas.csproj" />
+  </ItemGroup>
+
+</Project>

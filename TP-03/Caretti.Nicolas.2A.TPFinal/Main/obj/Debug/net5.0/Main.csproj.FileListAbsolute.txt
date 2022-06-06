@@ -1,0 +1,12 @@
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\bin\Debug\net5.0\Main.deps.json
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\bin\Debug\net5.0\Main.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\bin\Debug\net5.0\ref\Main.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\bin\Debug\net5.0\Main.pdb
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.csproj.AssemblyReference.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.AssemblyInfoInputs.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.AssemblyInfo.cs
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\ref\Main.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Main\obj\Debug\net5.0\Main.pdb

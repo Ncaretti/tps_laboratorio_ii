@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Arma xsi:type="Cuchillo">
+    <TipoCalidad>Amarilla</TipoCalidad>
+    <TipoArma>Bayoneta</TipoArma>
+    <NombreSkin>Acero de Damazco</NombreSkin>
+    <Precio>4800</Precio>
+  </Arma>
+  <Arma xsi:type="ArmaDeFuego">
+    <TipoCalidad>Rosa</TipoCalidad>
+    <TipoArma>Ak_47</TipoArma>
+    <NombreSkin>Linea roja</NombreSkin>
+    <Precio>1200</Precio>
+  </Arma>
+  <Arma xsi:type="Cuchillo">
+    <TipoCalidad>Amarilla</TipoCalidad>
+    <TipoArma>Bayoneta</TipoArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>3400</Precio>
+  </Arma>
+  <Arma xsi:type="ArmaDeFuego">
+    <TipoCalidad>Violeta</TipoCalidad>
+    <TipoArma>Ak_47</TipoArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>2500</Precio>
+  </Arma>
+  <Arma xsi:type="ArmaDeFuego">
+    <TipoCalidad>Azul</TipoCalidad>
+    <TipoArma>Ak_47</TipoArma>
+    <NombreSkin>Safari</NombreSkin>
+    <Precio>500</Precio>
+  </Arma>
+</ArrayOfArma>

@@ -1,0 +1,124 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormPrincipal/1.0.0": {
+        "dependencies": {
+          "FormClientes": "1.0.0",
+          "FormSkins": "1.0.0",
+          "FormVentas": "1.0.0"
+        },
+        "runtime": {
+          "FormPrincipal.dll": {}
+        }
+      },
+      "Armas/1.0.0": {
+        "runtime": {
+          "Armas.dll": {}
+        }
+      },
+      "Clientes/1.0.0": {
+        "runtime": {
+          "Clientes.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "runtime": {
+          "Excepciones.dll": {}
+        }
+      },
+      "FormClientes/1.0.0": {
+        "dependencies": {
+          "Clientes": "1.0.0",
+          "Excepciones": "1.0.0",
+          "Serializacion": "1.0.0"
+        },
+        "runtime": {
+          "FormClientes.dll": {}
+        }
+      },
+      "FormSkins/1.0.0": {
+        "dependencies": {
+          "Armas": "1.0.0",
+          "Excepciones": "1.0.0",
+          "Serializacion": "1.0.0"
+        },
+        "runtime": {
+          "FormSkins.dll": {}
+        }
+      },
+      "FormVentas/1.0.0": {
+        "dependencies": {
+          "Armas": "1.0.0",
+          "Clientes": "1.0.0",
+          "Serializacion": "1.0.0",
+          "Ventas": "1.0.0"
+        },
+        "runtime": {
+          "FormVentas.dll": {}
+        }
+      },
+      "Serializacion/1.0.0": {
+        "runtime": {
+          "Serializacion.dll": {}
+        }
+      },
+      "Ventas/1.0.0": {
+        "runtime": {
+          "Ventas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Armas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormClientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormSkins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormVentas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ventas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

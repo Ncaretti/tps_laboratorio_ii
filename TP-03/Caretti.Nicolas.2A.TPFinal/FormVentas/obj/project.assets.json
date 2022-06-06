@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Armas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Armas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Armas.dll": {}
+        }
+      },
+      "Clientes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Clientes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clientes.dll": {}
+        }
+      },
+      "Serializacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Serializacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Serializacion.dll": {}
+        }
+      },
+      "Ventas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ventas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ventas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Armas/1.0.0": {
+      "type": "project",
+      "path": "../Main/Armas.csproj",
+      "msbuildProject": "../Main/Armas.csproj"
+    },
+    "Clientes/1.0.0": {
+      "type": "project",
+      "path": "../Clientes/Clientes.csproj",
+      "msbuildProject": "../Clientes/Clientes.csproj"
+    },
+    "Serializacion/1.0.0": {
+      "type": "project",
+      "path": "../Serializacion/Serializacion.csproj",
+      "msbuildProject": "../Serializacion/Serializacion.csproj"
+    },
+    "Ventas/1.0.0": {
+      "type": "project",
+      "path": "../Ventas/Ventas.csproj",
+      "msbuildProject": "../Ventas/Ventas.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Armas >= 1.0.0",
+      "Clientes >= 1.0.0",
+      "Serializacion >= 1.0.0",
+      "Ventas >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nicon\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\FormVentas\\FormVentas.csproj",
+      "projectName": "FormVentas",
+      "projectPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\FormVentas\\FormVentas.csproj",
+      "packagesPath": "C:\\Users\\nicon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\FormVentas\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nicon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Clientes\\Clientes.csproj": {
+              "projectPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Clientes\\Clientes.csproj"
+            },
+            "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Main\\Armas.csproj": {
+              "projectPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Main\\Armas.csproj"
+            },
+            "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Serializacion\\Serializacion.csproj": {
+              "projectPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Serializacion\\Serializacion.csproj"
+            },
+            "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Ventas\\Ventas.csproj": {
+              "projectPath": "C:\\Users\\nicon\\source\\repos\\Caretti.Nicolas.2A.TPFinal\\Ventas\\Ventas.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

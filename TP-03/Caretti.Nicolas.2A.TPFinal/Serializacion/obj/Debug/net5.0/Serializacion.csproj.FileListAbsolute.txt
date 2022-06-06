@@ -1,0 +1,12 @@
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\bin\Debug\net5.0\Serializacion.deps.json
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\bin\Debug\net5.0\Serializacion.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\bin\Debug\net5.0\ref\Serializacion.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\bin\Debug\net5.0\Serializacion.pdb
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.csproj.AssemblyReference.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfoInputs.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.AssemblyInfo.cs
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\ref\Serializacion.dll
+C:\Users\nicon\source\repos\Caretti.Nicolas.2A.TPFinal\Serializacion\obj\Debug\net5.0\Serializacion.pdb

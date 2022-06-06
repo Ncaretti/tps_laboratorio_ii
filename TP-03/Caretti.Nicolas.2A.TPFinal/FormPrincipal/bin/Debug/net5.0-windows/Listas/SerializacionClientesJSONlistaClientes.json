@@ -1,0 +1,21 @@
+[
+  {
+    "Dni": 40502931,
+    "Nombre": "Walter",
+    "Apellido": "Pereyra",
+    "CantidadDeCompras": 0
+  }
+  ,
+  {
+    "Dni": 45319037,
+    "Nombre": "Lazaro",
+    "Apellido": "Guzman",
+    "CantidadDeCompras": 2
+  },
+  {
+    "Dni": 38028341,
+    "Nombre": "Agustin",
+    "Apellido": "Rosales",
+    "CantidadDeCompras": 1
+  }
+]

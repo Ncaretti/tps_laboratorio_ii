@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormSkins/1.0.0": {
+        "dependencies": {
+          "Armas": "1.0.0",
+          "Excepciones": "1.0.0",
+          "Serializacion": "1.0.0"
+        },
+        "runtime": {
+          "FormSkins.dll": {}
+        }
+      },
+      "Armas/1.0.0": {
+        "runtime": {
+          "Armas.dll": {}
+        }
+      },
+      "Excepciones/1.0.0": {
+        "runtime": {
+          "Excepciones.dll": {}
+        }
+      },
+      "Serializacion/1.0.0": {
+        "runtime": {
+          "Serializacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormSkins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Armas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
