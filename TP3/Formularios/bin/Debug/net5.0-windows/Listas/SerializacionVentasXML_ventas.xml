@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Venta>
+    <FechaYHora>2022-06-04T19:03:37.3818051-03:00</FechaYHora>
+    <Dni>45319037</Dni>
+    <Nombre>Lazaro</Nombre>
+    <Apellido>Guzman</Apellido>
+    <NombreTipoArma>Ak_47</NombreTipoArma>
+    <CalidarArma>Rosa</CalidarArma>
+    <NombreSkin>Linea roja</NombreSkin>
+    <Precio>1200</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-04T19:05:49.2802502-03:00</FechaYHora>
+    <Dni>38028341</Dni>
+    <Nombre>Agustin</Nombre>
+    <Apellido>Rosales</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Acero de Damazco</NombreSkin>
+    <Precio>4800</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-05T17:50:37.2420654-03:00</FechaYHora>
+    <Dni>45319037</Dni>
+    <Nombre>Lazaro</Nombre>
+    <Apellido>Guzman</Apellido>
+    <NombreTipoArma>Ak_47</NombreTipoArma>
+    <CalidarArma>Azul</CalidarArma>
+    <NombreSkin>Safari</NombreSkin>
+    <Precio>500</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:11:36.8450135-03:00</FechaYHora>
+    <Dni>45319037</Dni>
+    <Nombre>Lazaro</Nombre>
+    <Apellido>Guzman</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:13:05.0660472-03:00</FechaYHora>
+    <Dni>38028341</Dni>
+    <Nombre>Agustin</Nombre>
+    <Apellido>Rosales</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:13:44.1270904-03:00</FechaYHora>
+    <Dni>40502931</Dni>
+    <Nombre>Walter</Nombre>
+    <Apellido>Pereyra</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:14:29.1320276-03:00</FechaYHora>
+    <Dni>45319037</Dni>
+    <Nombre>Lazaro</Nombre>
+    <Apellido>Guzman</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:15:15.6963208-03:00</FechaYHora>
+    <Dni>38028341</Dni>
+    <Nombre>Agustin</Nombre>
+    <Apellido>Rosales</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:21:36.6268324-03:00</FechaYHora>
+    <Dni>72362172</Dni>
+    <Nombre>Oscar</Nombre>
+    <Apellido>Groups</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+  <Venta>
+    <FechaYHora>2022-06-14T19:21:44.8050958-03:00</FechaYHora>
+    <Dni>87231239</Dni>
+    <Nombre>Francisco</Nombre>
+    <Apellido>Stans</Apellido>
+    <NombreTipoArma>Bayoneta</NombreTipoArma>
+    <CalidarArma>Amarilla</CalidarArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Venta>
+</ArrayOfVenta>

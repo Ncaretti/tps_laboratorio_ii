@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj" />
+    <ProjectReference Include="..\UnitTesting\UnitTesting.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="FormAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAgregarSkin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAgregarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuSkins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

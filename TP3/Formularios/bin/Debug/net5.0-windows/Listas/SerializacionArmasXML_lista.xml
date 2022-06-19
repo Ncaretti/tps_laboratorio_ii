@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Arma xsi:type="Cuchillo">
+    <TipoCalidad>Amarilla</TipoCalidad>
+    <TipoArma>Bayoneta</TipoArma>
+    <NombreSkin>Noche Cerrada</NombreSkin>
+    <Precio>19000</Precio>
+  </Arma>
+</ArrayOfArma>
