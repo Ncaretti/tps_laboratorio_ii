@@ -19,8 +19,7 @@ namespace Entidades
         /// </summary>
         static EmpleadoDAO()
         {
-            EmpleadoDAO.connectionString = @"Server=DESKTOP-LJOC8JJ;Database=EmpleadosBD; Trusted_Connection=True;";
-
+            EmpleadoDAO.connectionString = @"Server=.;Database=EmpleadosDB; Trusted_Connection=True;";
         }
 
         /// <summary>
